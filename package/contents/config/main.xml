@@ -6,6 +6,18 @@
       http://www.kde.org/standards/kcfg/1.0/kcfg.xsd" >
     <kcfgfile name=""/>
     <group name="Appearance">
+        <entry name="fontFamilyDay" type="string">
+            <label>Font family. e.g "arial". The system font is used if this is not set.</label>
+            <default>Anurati</default>
+        </entry>
+        <entry name="fontFamilyDate" type="string">
+            <label>Font family. e.g "arial". The system font is used if this is not set.</label>
+            <default>Poppins</default>
+        </entry>
+        <entry name="fontFamilyTime" type="string">
+            <label>Font family. e.g "arial". The system font is used if this is not set.</label>
+            <default>Poppins</default>
+        </entry>
         <entry name="day_font_size" type="Int">
             <default>72</default>
         </entry>

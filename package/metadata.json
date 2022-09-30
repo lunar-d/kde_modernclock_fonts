@@ -4,19 +4,23 @@
             {
                 "Email": "prayagjain2@gmail.com",
                 "Name": "Prayag Jain"
+            },
+            {
+                "Email": "admin@lunardreams.fr",
+                "Name": "LunarDreamsFR"
             }
         ],
         "Category": "Date and Time",
         "Description": "A modern looking clock widget for your Desktop!",
         "Icon": "clock",
-        "Id": "com.github.prayag2.modernclock",
+        "Id": "com.github.lunar-d.modernclock",
         "License": "GPLv3",
         "Name": "Modern Clock",
         "ServiceTypes": [
             "Plasma/Applet"
         ],
-        "Version": "0.2.0",
-        "Website": "https://github.com/prayag2/kde_modernclock"
+        "Version": "0.2.0-Fork",
+        "Website": "https://github.com/lunar-d/kde_modernclock_fonts"
         
     },
     "X-Plasma-API": "declarativeappletscript",
