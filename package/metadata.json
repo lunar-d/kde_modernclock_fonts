@@ -11,7 +11,7 @@
             }
         ],
         "Category": "Date and Time",
-        "Description": "A modern looking clock widget for your Desktop!",
+        "Description": "A modern looking clock widget for your Desktop! Now with custom font support!",
         "Icon": "clock",
         "Id": "com.github.lunar-d.modernclock",
         "License": "GPLv3",
